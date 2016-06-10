@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+__pycache__/font_manager.cpython-34.pyc
+__pycache__/ideaz2.cpython-34.pyc
+__pycache__/random_list.cpython-34.pyc
+__pycache__/ideaz.cpython-34.pyc

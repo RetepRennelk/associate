@@ -1,0 +1,4 @@
+run
+jump
+joke
+love
